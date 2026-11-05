@@ -59,19 +59,20 @@ India demonstrated faster percentage growth in billionaire counts between 2023 a
 - Forbes
 - World Happiness Report
 
+
 ## Data Visualizations
 
 ### Historical INR/USD Exchange Rate
 
-![Historical INR/USD Exchange Rate](historical_exchange_rate.png)
+![Historical Exchange Rate](historical_exchange_rate.png)
 
 ### INR/USD Forecast Comparison (2026–2050)
 
-![INR/USD Forecast Comparison](forecast_comparison.png)
+![Forecast Comparison](forecast_comparison.png)
 
 ### India vs USA Inflation Comparison
 
-![India vs USA Inflation Comparison](inflation_comparison.png)
+![Inflation Comparison](inflation_comparison.png)
 
 ## Limitations
 
