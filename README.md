@@ -63,15 +63,15 @@ India demonstrated faster percentage growth in billionaire counts between 2023 a
 
 ### Historical INR/USD Exchange Rate
 
-![Historical Exchange Rate](images/historical_exchange_rate.png)
+![Historical INR/USD Exchange Rate](historical_exchange_rate.png)
 
 ### INR/USD Forecast Comparison (2026–2050)
 
-![Forecast Comparison](images/forecast_comparison.png)
+![INR/USD Forecast Comparison](forecast_comparison.png)
 
 ### India vs USA Inflation Comparison
 
-![Inflation Comparison](images/inflation_comparison.png)
+![India vs USA Inflation Comparison](inflation_comparison.png)
 
 ## Limitations
 
